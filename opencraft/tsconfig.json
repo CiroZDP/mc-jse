@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es5",
+    "outDir": "../play/js",
+    "rootDir": "src",
+    "strict": true,
+    "esModuleInterop": true
+  },
+
+  "include": [ "src/**/*"     ],
+  "exclude": [ "node_modules" ]
+}

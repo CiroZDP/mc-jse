@@ -1,9 +1,7 @@
 <div align="center">
 
-### ```/play/js```
+## ```/play/js```
 
 </div>
-
----
 
 Here goes all the transpiled typescript code.
